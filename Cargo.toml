@@ -2,5 +2,9 @@
 name = "quickstep"
 version = "0.1.0"
 edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "An open source Bf-tree implementation"
+homepage = "https://github.com/raphaeldarley/quickstip"
+repository = "https://github.com/raphaeldarley/quickstep"
 
 [dependencies]
